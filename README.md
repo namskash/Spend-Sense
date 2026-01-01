@@ -1,7 +1,14 @@
-# Spend-Sense
-> **NOTE**: _Barely any LLMs were harmed in the making of this README :)_ 
+<p align="center">
+  <img src="./assets/Logo/spendsense_logo_round.webp" alt="SpendSense Logo" width="120" />
+</p>
+
+<h1 align="center">SpendSense</h1>
+
+> [!NOTE]
+> _Barely any LLMs were harmed in the making of this README :)_ 
 
 SpendSense is a completely offline, 100% private, expense tracking app. It is designed and developed completely and individually by Naman Kashyap. _That's me. Hi! :)_
+
 It's a powerful, completely local tool that gives you the power to add, maintain and analyse your spends
 
 ## Backstory
@@ -14,6 +21,12 @@ I've had a working version of this app since May 2024 and I've been using it as 
 
 I hope this app becomes the go-to tool in your finance management arsenal for everyday use!
 Dhanyavāda!
+
+<p align="center">
+  <img src="./assets/Home-Feature.png" width="45%" />
+  <img src="./assets/Analytics-Feature.png" width="45%" />
+</p>
+
 ## Why SpendSense?
 We all spend money every day, but rarely have a clear understanding of where, when, and on what it’s spent.
 
