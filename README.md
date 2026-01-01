@@ -4,7 +4,7 @@
 
 <h1 align="center">SpendSense</h1>
 
-> [!NOTE]:
+> [!NOTE]
 > _Barely any LLMs were harmed in the making of this README :)_ 
 
 SpendSense is a completely offline, 100% private, expense tracking app. It is designed and developed completely and individually by Naman Kashyap. _That's me. Hi! :)_
@@ -26,8 +26,6 @@ Dhanyavāda!
   <img src="./assets/Home-Feature.png" width="45%" />
   <img src="./assets/Analytics-Feature.png" width="45%" />
 </p>
-
----
 
 ## Why SpendSense?
 We all spend money every day, but rarely have a clear understanding of where, when, and on what it’s spent.
