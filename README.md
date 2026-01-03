@@ -51,4 +51,9 @@ If you want to save more, the first step is knowing exactly **where** and **on w
 - The app can only give you benefits if you do your part.
 > Tip: _"Logging an expense takes just 5 seconds, so I do it immediately after every spend. No backlog, no guilt."_
 
-
+## Vote of Thanks!
+- [SVG Repo](https://www.svgrepo.com): They have some wonderful, community driven, open-licensed SVGs! I've used them all over this app! :)
+- [Pie Chart Reference](https://medium.com/@developerchunk/create-custom-pie-chart-with-animations-in-jetpack-compose-android-studio-kotlin-49cf95ef321e): This is the approach I used because I couldn't find any nice libraries for pie/doughnut charts... It's quite a nice approach! I loved it.
+- [YouTube intro to Room Databases](https://www.youtube.com/watch?v=bOd3wO0uFr8): This got me started!
+- [Android Dev Documentation](https://developer.android.com/): Some of the best documentation I've seen!
+- [Material3](https://m3.material.io/): Goes without saying :)
