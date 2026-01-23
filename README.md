@@ -71,7 +71,7 @@ If you want to save more, the first step is knowing exactly **where** and **on w
 
 ## Why use ***SpendSense***?
 - SpendSense is 100% offline. It never connects to the internet. You can even use it in aeroplane mode!
-- It's 100% private! No peeking, no sneaky privacy policies. Just a very straightforward promise - Your data is ONLY yours. It never leaves your phone! Ever.
+- It's 100% private! No peeking, no sneaky [privacy policies](./PrivacyPolicy.md). Just a very straightforward promise - Your data is ONLY yours. It never leaves your phone! Ever.
 - What about data backup? Well, that's up to you! The app has an export to CSV feature. So you can export all your data, and then back it up however you want, whenever you want!
 - Analytics! The app comes with powerful analytics that you can use to drill-down on where you spent your money. Across different time windows. Across categories of spends. Across modes of payments. Across ranges of amounts. Across every combination of the above mentioned!
 - Convenient customisations! The app also comes with settings that you can tweak to make your SpendSense experience more convenient. It works anywhere in the world. So, to start off, you can change your default currency. 
