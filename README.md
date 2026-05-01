@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Logo/spendsense_logo_round.webp" alt="SpendSense Logo" width="120" />
+  <img src="./assets/Logo/spensense_logo_octagonal_round.png" alt="SpendSense Logo" width="120" />
 </p>
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.my.spendsense">
