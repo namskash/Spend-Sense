@@ -1,0 +1,48 @@
+Lekhya (previously SpendSense) is a simple, offline expense tracking app built for people who want clarity over their spending without sacrificing privacy.
+
+Lekhya · /ˈleː.kʰ.jɐ/ comes from the Sanskrit word Lēkhya (लेख्य) which means "that which is documented".
+
+We spend money every day, yet often lack proper documentation and therefore, a clear understanding of where, when, and on what it’s spent. Most apps only offer a macro-level summary - totals, charts, and trends - but real savings start with understanding the details.
+
+Lekhya helps you build that clarity.
+
+🔍 Understand Your Spending - Clearly
+With Lekhya, you can:
+• Log expenses in just a few seconds
+• Categorise spending the way _you_ want
+• View detailed, micro-level insights into your expenses
+• Understand exactly where and on what your money goes
+
+No clutter. No unnecessary features. Just useful insights.
+
+🔒 Privacy Comes First
+Lekhya is built with privacy as a core principle:
+• 100% offline — no internet required
+• No cloud sync
+• No data collection
+• No ads
+• No tracking
+Your data stays on your device, always.
+
+🚫 What Lekhya Is NOT
+• Not an AI-powered app. Just plain, deterministic logic written by a boring human. No LLMs.
+• No automated expense logging. That would require SMS access, heavy processing, and internet access - all of which compromise privacy and accuracy.  
+Lekhya avoids over-engineered, unreliable automation in favour of simplicity and control.
+
+⚖️ The Trade-Off
+Complete privacy comes at the cost of convenience.
+You’ll need to build the habit of manually logging expenses.  
+But that small effort pays off with:
+• Better awareness
+• Cleaner data
+• Zero privacy compromises
+
+> Logging an expense takes just 5 seconds - no backlog, no guilt.
+
+✅ Built For You If You Want:
+• A fast, distraction-free expense tracker
+• Full control over your financial data
+• Honest insights without surveillance
+• A lightweight app that respects your device and your privacy
+
+If you value privacy, clarity, and simplicity, Lekhya is for you :)
